@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4003852 */
+  src: url('../fonts/iconfont.woff2?t=1682147059471') format('woff2'),
+       url('../fonts/iconfont.woff?t=1682147059471') format('woff'),
+       url('../fonts/iconfont.ttf?t=1682147059471') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shanchu:before {
+  content: "\e66d";
+}
+
+.icon-xiangshang:before {
+  content: "\e601";
+}
+
+.icon-xiangxia:before {
+  content: "\e602";
+}
+
+.icon-shouye:before {
+  content: "\e621";
+}
+
+.icon-fanhui:before {
+  content: "\e600";
+}
+
+.icon-tuijian:before {
+  content: "\e6cd";
+}
+
+.icon-remen:before {
+  content: "\e649";
+}
+
+.icon-sousuo_o:before {
+  content: "\eb86";
+}
+
+.icon-kefu:before {
+  content: "\ec2e";
+}
+
+.icon-fenlei-copy:before {
+  content: "\e83b";
+}
+
+.icon-gouwuche-copy:before {
+  content: "\e83c";
+}
+
+.icon-zhuye-copy:before {
+  content: "\e83d";
+}
+
+.icon-wode-copy:before {
+  content: "\e83e";
+}
+
+.icon-wode:before {
+  content: "\e75e";
+}
+
+.icon-fenlei:before {
+  content: "\e63f";
+}
+
+.icon-gouwuche:before {
+  content: "\e70b";
+}
+
+.icon-zhuye:before {
+  content: "\e83a";
+}
+
