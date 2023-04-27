@@ -1,24 +1,12 @@
 # leisure-shopping
+# 一个移动端的购物商城项目（vue2+node.js）
 
-## Project setup
-```
-npm install
-```
+## 实现的功能：
+### 可以从商品页将商品添加至购物车，在购物车内对商品及其数量进行选择，随后选择商品添加至订单中，在订单页对地址进行修改、订单支付。
+### axios二次封装，加入token以及token过期验证。
+### 根据后端所给的接口数据完成页面渲染和不同展示view的判断。
+### 实现了短信验证码的登录、注册以及找回密码功能。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
